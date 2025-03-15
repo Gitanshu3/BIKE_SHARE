@@ -1,0 +1,3 @@
+include config.yml
+include VERSION
+include *.pkl
